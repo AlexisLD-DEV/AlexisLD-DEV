@@ -1,14 +1,14 @@
 # Alexis Le Deunf
 
-Développeur web & IA appliquée.
+Développeur web IA à Rouen.
 
-Je construis des interfaces React/TypeScript, des prototypes interactifs et des workflows assistés par IA.
+Je construis à Rouen des interfaces React/TypeScript, des prototypes interactifs et des workflows assistés par IA.
 
 ## Projets
 
 - [Portfolio](https://ledeunf.fr/) - portfolio personnel, case studies, captures projet, stack et contact.
-- [Quiz English](https://quiz.ledeunf.fr/) - application d'apprentissage React/TypeScript.
-- [ZombieFarmV1](https://game.ledeunf.fr/) - prototype jouable navigateur TypeScript/Phaser.
+- [Quiz English](https://ledeunf.fr/projets/quiz-english/) - application d'apprentissage React/TypeScript, avec [prototype live](https://quiz.ledeunf.fr/).
+- [ZombieFarmV1](https://ledeunf.fr/projets/zombie-farm/) - prototype jouable navigateur TypeScript/Phaser, avec [démo live](https://game.ledeunf.fr/).
 
 ## Stack
 
