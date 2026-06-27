@@ -29,6 +29,11 @@ Je livre des interfaces React/TypeScript, des prototypes testables et des automa
 | Quiz English | App d'apprentissage React/TypeScript avec quiz editor, salle live et feedback immédiat. | [Fiche](https://ledeunf.fr/projets/quiz-english/) · [Live](https://quiz.ledeunf.fr/) |
 | ZombieFarmV1 | Prototype navigateur TypeScript/Phaser avec game loop, HUD et upgrades. | [Fiche](https://ledeunf.fr/projets/zombie-farm/) · [Live](https://game.ledeunf.fr/) |
 
+## Dépôts privés et preuves
+
+Certains dépôts restent privés lorsqu'ils touchent à des données, à l'anti-abus, aux assets ou aux licences.
+Je privilégie donc des preuves publiques vérifiables: fiches projet, captures, démos live, CV PDF et extraits techniques partageables sur demande.
+
 ## Stack
 
 - Front: React, TypeScript, Vite, Next.js, CSS responsive.
