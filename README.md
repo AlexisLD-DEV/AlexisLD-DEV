@@ -16,23 +16,23 @@ Je livre des interfaces React/TypeScript, des prototypes testables et des automa
 ## Ce que je peux livrer
 
 - Interface React claire, responsive et maintenable.
-- Prototype web testable rapidement par un recruteur, client ou utilisateur.
+- Prototype web testable rapidement par un client, une équipe ou un utilisateur.
 - Workflow IA utile: tri, génération, assistant métier ou automatisation.
 - Livraison vérifiée: build, responsive, SEO, accessibilité, headers sécurité.
 
-## Projets vérifiables
+## Projets détaillés
 
-| Projet | Ce que ça montre | Preuve |
+| Projet | Ce que ça montre | À voir |
 | --- | --- | --- |
-| Portfolio | Site vitrine React avec particules canvas, SEO, sécurité, CV et preuves projet. | [Site](https://ledeunf.fr/) · [CV](https://ledeunf.fr/cv-alexis-le-deunf-2026-06-26.pdf) |
+| Portfolio | Site vitrine React avec particules canvas, SEO, sécurité, CV et projets détaillés. | [Site](https://ledeunf.fr/) · [CV](https://ledeunf.fr/cv-alexis-le-deunf-2026-06-26.pdf) |
 | Nice Control Center | Dashboard React privé qui rend des flux ops lisibles. | [Fiche](https://ledeunf.fr/projets/nice-control-center/) avec capture anonymisée. |
 | Quiz English | App d'apprentissage React/TypeScript avec quiz editor, salle live et feedback immédiat. | [Fiche](https://ledeunf.fr/projets/quiz-english/) · [Live](https://quiz.ledeunf.fr/) |
 | ZombieFarmV1 | Prototype navigateur TypeScript/Phaser avec game loop, HUD et upgrades. | [Fiche](https://ledeunf.fr/projets/zombie-farm/) · [Live](https://game.ledeunf.fr/) |
 
-## Dépôts privés et preuves
+## Dépôts privés et éléments
 
 Certains dépôts restent privés lorsqu'ils touchent à des données, à l'anti-abus, aux assets ou aux licences.
-Je privilégie donc des preuves publiques vérifiables: fiches projet, captures, démos live, CV PDF et extraits techniques partageables sur demande.
+Je privilégie donc des éléments publics consultables: fiches projet, captures, démos live, CV PDF et extraits techniques partageables sur demande.
 
 ## Stack
 
