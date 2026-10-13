@@ -17,21 +17,21 @@ feedback. React 19 and TypeScript in strict mode, Cloudflare Workers with D1 and
 tests with Playwright.
 
 **Open source — the only public repository here**, so it is the one worth reading.
-[Repository](https://github.com/AlexisLD-DEV/easypz) · [Live site](https://easypz.fr) · [Project page](https://alexisld.fr/projets/easypz/)
+[Repository](https://github.com/AlexisLD-DEV/easypz) · [Live site](https://easypz.fr)
 
 ![EasyPZ quiz catalogue](https://raw.githubusercontent.com/AlexisLD-DEV/easypz/main/docs/screenshots/gallery-desktop.png)
 
-### Echo — reputation monitoring for local businesses
+### Écho — reputation monitoring for local businesses
 Collects customer reviews for shops in Rouen, analyses them and drafts replies a human can send.
 Public page plus an API that handles the contact form.
-
-[Project page](https://alexisld.fr/projets/echo/)
 
 ### PokeRush — pixel-art idle RPG
 Playable prototype in the browser, built to test game loops and progress systems in React and
 TypeScript.
 
 [Project page](https://alexisld.fr/projets/pokerush/)
+
+All project write-ups: [alexisld.fr/projets](https://alexisld.fr/projets/)
 
 ---
 
