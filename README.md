@@ -1,41 +1,56 @@
 # Alexis Le Deunf
 
-**Product Builder no code & IA à Rouen.**
+**Product Builder — no-code & AI** · Rouen, France
 
-Je conçois des sites web, des prototypes testables et des automatisations assistées par IA, du premier échange à la mise en ligne.
+I take web products from a written brief to something people can actually use: interface in
+React and TypeScript, data and automation through APIs, deployment measured rather than assumed.
 
-## Liens rapides
+[Portfolio](https://alexisld.fr) · [LinkedIn](https://www.linkedin.com/in/ledeunf/) · [contact@alexisld.fr](mailto:contact@alexisld.fr)
 
-- Portfolio : [alexisld.fr](https://alexisld.fr/)
-- Projets détaillés : [alexisld.fr/projets/](https://alexisld.fr/projets/)
-- LinkedIn : [linkedin.com/in/ledeunf](https://www.linkedin.com/in/ledeunf/)
+---
 
-![Aperçu du portfolio Alexis Le Deunf](https://alexisld.fr/og-image-2026-06-26.png)
+## Selected work
 
-## Ce que je peux livrer
+### EasyPZ — English quiz platform for schools
+Classroom quiz platform: catalogue, practice mode, teacher space and live sessions with instant
+feedback. React 19 and TypeScript in strict mode, Cloudflare Workers with D1 and R2, end-to-end
+tests with Playwright.
 
-- Site vitrine ou application web claire, responsive et maintenable.
-- Prototype web testable rapidement par un client, une équipe ou un utilisateur.
-- Workflow IA utile : tri, génération, assistant métier ou automatisation.
-- Livraison vérifiée : build, responsive, SEO, accessibilité, headers sécurité.
+**Open source — the only public repository here**, so it is the one worth reading.
+[Repository](https://github.com/AlexisLD-DEV/easypz) · [Live site](https://easypz.fr) · [Project page](https://alexisld.fr/projets/easypz/)
 
-## Projets détaillés
+![EasyPZ quiz catalogue](https://raw.githubusercontent.com/AlexisLD-DEV/easypz/main/docs/screenshots/gallery-desktop.png)
 
-| Projet | Ce que ça montre | À voir |
-| --- | --- | --- |
-| Syllabus | Plateforme React pour orthophonistes : création et partage d'exercices. | [Fiche](https://alexisld.fr/projets/syllabus/) · [Live](https://syllabox.fr/) |
-| Quiz English | App React/TypeScript d'apprentissage de l'anglais : quiz editor, salle live, feedback immédiat. | [Fiche](https://alexisld.fr/projets/quiz-english/) · [Live](https://quiz.ledeunf.fr/) |
-| PokeRush | Jeu idle RPG pixel art en React/TypeScript : boucle de jeu, HUD, upgrades. | [Fiche](https://alexisld.fr/projets/pokerush/) · [Live](https://pokerush.fr/) |
-| Portfolio | Site vitrine : SEO, accessibilité, sécurité et pages projets détaillées. | [Site](https://alexisld.fr/) · [Projets](https://alexisld.fr/projets/) |
+### Echo — reputation monitoring for local businesses
+Collects customer reviews for shops in Rouen, analyses them and drafts replies a human can send.
+Public page plus an API that handles the contact form.
 
-## Dépôts privés et éléments
+[Project page](https://alexisld.fr/projets/echo/)
 
-Certains dépôts restent privés lorsqu'ils touchent à des données, à l'anti-abus, aux assets ou aux licences.
-Je privilégie donc des éléments publics consultables : fiches projet, captures, démos live et extraits techniques partageables sur demande.
+### PokeRush — pixel-art idle RPG
+Playable prototype in the browser, built to test game loops and progress systems in React and
+TypeScript.
 
-## Stack
+[Project page](https://alexisld.fr/projets/pokerush/)
 
-- Front : React, TypeScript, Vite, Next.js, CSS responsive.
-- Backend / données : Supabase, Cloudflare Workers, D1, R2 selon les projets.
-- Déploiement : Cloudflare Pages, Vercel, DNS, headers sécurité.
-- IA et tooling : Codex CLI, GPT-5, Qwen, Ollama.
+---
+
+## How I work
+
+- **Brief first.** A product starts as a written brief: audience, scope, what "done" means.
+- **Ship in small pieces**, each one reviewable and verifiable on its own.
+- **Measure, don't assume.** Performance, accessibility and SEO are measured with real tools, and
+  rejected ideas are documented with the evidence that rejected them.
+- **Security as a default,** not an afterthought: strict Content Security Policy, no secret in
+  version control, no customer data in the front end.
+
+## Tools I use day to day
+
+`React` `TypeScript` `Vite` `Node.js` `Cloudflare Workers / Pages / D1 / R2` `Webflow` `Airtable`
+`Make` `REST APIs` `Playwright` `GitHub Actions` `Lighthouse`
+
+---
+
+## Contact
+
+[contact@alexisld.fr](mailto:contact@alexisld.fr) · [alexisld.fr](https://alexisld.fr) · Rouen, France
