@@ -38,7 +38,7 @@ Du brief client à la mise en ligne : email de cadrage, moodboard, maquette anno
 déployé et mesuré (Lighthouse), le tout versionné. Exercice du module sites web de ma formation
 Product Builder.
 
-[Dépôt](https://github.com/AlexisLD-DEV/cleanbnb-conciergerie) · [Site de démonstration](https://cleanbnb-conciergerie-menage.lovable.app/)
+[Dépôt](https://github.com/AlexisLD-DEV/cleanbnb-conciergerie) · [Site de démonstration](https://cleanbnb-conciergerie.lovable.app/)
 
 Toutes les fiches projet : [alexisld.fr/projets](https://alexisld.fr/projets/)
 
