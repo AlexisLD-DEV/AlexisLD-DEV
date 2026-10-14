@@ -1,80 +1,70 @@
 # Alexis Le Deunf
 
-**Product Builder — no-code & IA** · Rouen, France
+**Product Builder no-code & IA** · Rouen
 
-Je fais passer un produit web d'un brief écrit à quelque chose que les gens utilisent vraiment :
-interface en React et TypeScript, données et automatisation par API, mise en ligne mesurée plutôt
-que supposée.
+Je conçois et mets en ligne des produits web, de l’idée à l’usage.
 
 [Portfolio](https://alexisld.fr) · [LinkedIn](https://www.linkedin.com/in/ledeunf/) · [contact@alexisld.fr](mailto:contact@alexisld.fr)
 
 ---
 
-## Projets
+## Projets en cours
 
-### EasyPZ — plateforme de quiz d'anglais pour les classes
-Catalogue, mode entraînement, espace enseignant et sessions en direct avec correction immédiate.
-React 19 et TypeScript en mode strict, Cloudflare Workers avec D1 et R2, tests de bout en bout avec
-Playwright. Le dépôt est public et documenté : c'est celui qui vaut la lecture.
+### Le QRamen / QRoque Monsieur
+Commande à table par QR code pour deux restaurants, avec automatisations n8n, Airtable et Caddy.
+
+[Voir le projet](https://qramen.ledeunf.fr)
+
+### CleanBnB
+Site de conciergerie de ménage réalisé comme exercice Product Builder, du brief client à la mise en ligne.
+
+[Voir le site](https://cleanbnb.alexisld.fr)
+
+## Projets publics
+
+### EasyPZ — plateforme de quiz d’anglais
+Catalogue de quiz, entraînement et espace enseignant avec sessions en direct. Application React et TypeScript, déployée sur Cloudflare.
 
 [Dépôt](https://github.com/AlexisLD-DEV/easypz) · [Site](https://easypz.fr) · [Fiche projet](https://alexisld.fr/projets/easypz/)
 
 ![Catalogue de quiz EasyPZ](https://raw.githubusercontent.com/AlexisLD-DEV/easypz/main/docs/screenshots/gallery-desktop.png)
 
-### Écho — veille d'avis clients pour les commerces
-Collecte les avis des commerces de Rouen, les analyse et rédige des brouillons de réponse qu'un
-humain peut envoyer. Une page publique et une API qui traite le formulaire de contact.
+### Écho — veille d’avis clients
+Outil de collecte et d’analyse d’avis pour les commerces, avec propositions de réponses à valider par une personne.
 
 [Fiche projet](https://alexisld.fr/projets/echo/)
 
 ### PokeRush — idle RPG en pixel art
-Prototype jouable dans le navigateur, construit pour éprouver les boucles de jeu et les systèmes de
-progression en React et TypeScript.
+Prototype jouable dans le navigateur, développé en React et TypeScript.
 
 [Fiche projet](https://alexisld.fr/projets/pokerush/)
 
-### CleanBnB Conciergerie — exercice de formation, client fictif
-Du brief client à la mise en ligne : email de cadrage, moodboard, maquette annotée, site réellement
-déployé et mesuré (Lighthouse), le tout versionné. Exercice du module sites web de ma formation
-Product Builder.
+Autres projets : [alexisld.fr/projets](https://alexisld.fr/projets/)
 
-[Dépôt](https://github.com/AlexisLD-DEV/cleanbnb-conciergerie) · [Site de démonstration](https://cleanbnb-conciergerie.lovable.app/)
+## Stack
 
-Toutes les fiches projet : [alexisld.fr/projets](https://alexisld.fr/projets/)
-
----
-
-## Ma façon de travailler
-
-- **Le brief d'abord.** Un produit commence par un brief écrit : le public, le périmètre, et ce que
-  veut dire « terminé ».
-- **Livrer par petites pièces**, chacune vérifiable et relisible toute seule.
-- **Mesurer, pas supposer.** Performance, accessibilité et SEO sont mesurés avec de vrais outils,
-  et les pistes écartées sont documentées avec la mesure qui les a écartées.
-- **La sécurité par défaut** : Content Security Policy stricte, aucun secret dans le dépôt, aucune
-  donnée client dans le front.
-
-## Outils du quotidien
-
-`React` `TypeScript` `Vite` `Node.js` `Cloudflare Workers / Pages / D1 / R2` `Webflow` `Airtable`
-`Make` `API REST` `Playwright` `GitHub Actions` `Lighthouse`
-
----
-
-## Contact
-
-[contact@alexisld.fr](mailto:contact@alexisld.fr) · [alexisld.fr](https://alexisld.fr) · Rouen, France
+React · TypeScript · n8n · Airtable · Cloudflare · Playwright · Vite · Node.js · API REST · GitHub Actions
 
 ---
 
 <details>
-<summary>English summary</summary>
+<summary><b>🇬🇧 English summary</b></summary>
 
-I take web products from a written brief to something people actually use: React and TypeScript
-interfaces, data and automation through APIs, deployment measured rather than assumed.
+**Alexis Le Deunf** — Product Builder (no-code & AI), based in Rouen, France.
 
-Public repositories: [EasyPZ](https://github.com/AlexisLD-DEV/easypz) — English quiz platform for
-schools — and [CleanBnB Conciergerie](https://github.com/AlexisLD-DEV/cleanbnb-conciergerie) — a
-training exercise on a fictional client brief.
+I design and ship web products, from idea to production.
+
+**Current projects**
+- **Le QRamen / QRoque Monsieur** — table-side ordering by QR code for two restaurants (n8n, Airtable, Caddy) → https://qramen.ledeunf.fr
+- **CleanBnB** — cleaning concierge website, built as a Product Builder exercise → https://cleanbnb.alexisld.fr
+
+**Public projects**
+- **EasyPZ** — English quiz platform, React / TypeScript on Cloudflare → https://easypz.fr
+- **Écho** — customer review monitoring for local businesses → https://alexisld.fr/projets/echo/
+- **PokeRush** — browser idle RPG prototype in pixel art
+
+**Stack** — React · TypeScript · n8n · Airtable · Cloudflare · Playwright · Node.js
+
+[Portfolio](https://alexisld.fr) · [contact@alexisld.fr](mailto:contact@alexisld.fr)
 
 </details>
